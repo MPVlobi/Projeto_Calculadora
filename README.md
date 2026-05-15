@@ -12,21 +12,18 @@ O sistema foi desenvolvido com foco em organização de código, utilização de
 
 ## Objetivo da Atividade
 
-A atividade tem como objetivo:
+Esta atividade tem como objetivo desenvolver a capacidade prática do aluno na construção, validação, manutenção e documentação de software, aplicando conceitos de:
 
-- Aplicar conceitos de programação em Java
-- Utilizar estruturas de decisão (switch)
-- Implementar métodos sem efeitos colaterais
-- Realizar testes funcionais (caixa preta)
-- Aplicar técnicas de refatoração
-- Documentar o código com Javadoc
+testes funcionais; testes unitários;tratam ento de erros; refatoração de código; documentação técnica e versionamento de software.
+
+Ao final da atividade, o aluno deverá ser capaz de compreender como práticas de qualidade de software são aplicadas em projetos reais de desenvolvimento, garantindo confiabilidade, organização, legibilidade e facilidade de manutenção do código-fonte.
 
 ---
 
 ## Tecnologias Utilizadas
 
 - Java (JDK 17 ou superior)
-- VS Code ou NetBeans
+- VS Code 
 - Javadoc
 
 ---
